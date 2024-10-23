@@ -4,4 +4,6 @@
 
 ## cd exercise
 
+## dart pub get (to Install Dependencies)
+
 ## dart run bin/main.dart
